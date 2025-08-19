@@ -70,37 +70,11 @@ I'm a passionate **Frontend Developer** with 2+ years of experience specializing
 
 ```mermaid
 pie title Frontend Skills
-    "React/Next.js" : 40
-    "Vue.js" : 20
-    "Tailwind/Bootstrap" : 25
+    "React/Next.js" : 45
+    "Vue.js" : 10
+    "Tailwind/Bootstrap" : 30
     "UI Libraries" : 15
 ```
-
-### Database & Backend
-
-```mermaid
-pie title Database Skills
-    "MySQL" : 35
-    "MongoDB" : 25
-    "PostgreSQL" : 20
-    "PHP/MySQL" : 20
-```
-
-### Learning Progress
-
-```mermaid
-gantt
-    title Learning Timeline
-    dateFormat  YYYY-MM-DD
-    section Current
-    Redux Learning    :active, redux, 2025-08-01, 2025-12-31
-    Prisma Learning   :active, prisma, 2025-08-01, 2025-12-31
-    Express.js        :active, express, 2025-08-01, 2025-12-31
-    section Future
-    TikTok Channel    :tiktok, 2025-09-01, 2025-12-31
-```
-
----
 
 ## 💼 Professional Experience
 
@@ -163,7 +137,7 @@ gantt
 ## 📱 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/magdy-jacob" target="_blank">
+  <a href="www.linkedin.com/in/magdy-jacob-497173299" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:magdyjacob0@gmail.com">
